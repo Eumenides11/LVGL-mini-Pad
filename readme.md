@@ -36,11 +36,11 @@
 
 ```text
 RV1106_LVGL_Desktop/
-├── pc_simulator/          # ? PC 端 Ubuntu 仿真环境源码 (基于 SDL2)
-├── rv1106_board/          # ? RV1106 ARM 交叉编译源码 (适配 Linux HAL 原生驱动)
-├── release_to_board/      # ? 目标板开箱即用部署包 (含可执行文件、测试图片、视频)
-├── docs/                  # ? 开发手册与移植实战踩坑指南
-└── README.md              # ? 项目说明文档
+├── pc_simulator/          # PC 端 Ubuntu 仿真环境源码 (基于 SDL2)
+├── rv1106_board/          # RV1106 ARM 交叉编译源码 (适配 Linux HAL 原生驱动)
+├── release_to_board/      # 目标板开箱即用部署包 (含可执行文件、测试图片、视频)
+├── docs/                  # 开发手册与移植实战踩坑指南
+└── README.md              # 项目说明文档
 ```
 ---
 
